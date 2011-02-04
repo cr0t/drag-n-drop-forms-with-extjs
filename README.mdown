@@ -1,0 +1,5 @@
+Simple Drag'n'Drop Project to show how we can make UI visual maker tool with ExtJS library.
+
+It was a proof of concept code for one of my clients.
+
+You can see how it works here: http://vimeo.com/10244667
